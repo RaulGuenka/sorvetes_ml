@@ -1,0 +1,5 @@
+Aprendi a configurar e registrar modelos com MLflow, o que facilita muito o rastreio de experimentos.
+Foi interessante observar que a temperatura tem uma relação linear com as vendas de sorvete.
+Agora entendo melhor como criar um pipeline reutilizável para Machine Learning.
+Deployar o modelo foi uma ótima prática para projetos reais.
+Percebi que trabalhar com reprodutibilidade é essencial em ciência de dados.
